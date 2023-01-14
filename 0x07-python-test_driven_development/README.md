@@ -10,6 +10,5 @@ All of the following files are scripts and programs written in Python:
 
 | Filename | Description |
 | -------- | ----------- |
-| `1-my_list.py` | Writing class MyList that inherits from list |
-| `1-my_list.py` | Writing class MyList that inherits from list |
-| `1-my_list.py` | Writing class MyList that inherits from list |
+| `2-matrix_divided.py` |  Adding a function that divides all elements of amatrix |
+| `4-print_square.py` |  adding a function that prints a square with the character # |
