@@ -8,6 +8,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX**.Aims 
 All of the following files are scripts and programs written in Python:
 
 | Filename | Description |
+| -------- | ----------- |
 | `1-my_list.py` | Writing class MyList that inherits from list |
 | `10-square.py` |  Adding a class Square that inherits from Rectangle (9-rectangle.py) |
 | `100-my_int.py` |  adding a class MyInt that inherits from int |
