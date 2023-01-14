@@ -10,3 +10,6 @@ All of the following files are scripts and programs written in Python:
 
 | Filename | Description |
 | -------- | ----------- |
+| `1-my_list.py` | Writing class MyList that inherits from list |
+| `1-my_list.py` | Writing class MyList that inherits from list |
+| `1-my_list.py` | Writing class MyList that inherits from list |
